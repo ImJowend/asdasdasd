@@ -45,3 +45,12 @@ footer nav ul li{
     display: inline;
     margin: 0 5rem;
 }
+
+section input{
+    display: block;
+    margin: 0 auto;
+}
+
+section{
+    padding: 2rem;
+}
